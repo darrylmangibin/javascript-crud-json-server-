@@ -35,7 +35,3 @@ $ npm run build
 
 Darryl Mangibin
 [Darryl](http://antifaty.co)
-
-### License
-
-This project is licensed under the MIT License
